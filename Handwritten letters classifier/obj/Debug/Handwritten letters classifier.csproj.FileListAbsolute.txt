@@ -1,0 +1,18 @@
+c:\users\botalka\documents\visual studio 2015\Projects\Handwritten letters classifier\Handwritten letters classifier\bin\Debug\Handwritten letters classifier.exe.config
+c:\users\botalka\documents\visual studio 2015\Projects\Handwritten letters classifier\Handwritten letters classifier\bin\Debug\Handwritten letters classifier.exe
+c:\users\botalka\documents\visual studio 2015\Projects\Handwritten letters classifier\Handwritten letters classifier\bin\Debug\Handwritten letters classifier.pdb
+c:\users\botalka\documents\visual studio 2015\Projects\Handwritten letters classifier\Handwritten letters classifier\obj\Debug\Handwritten letters classifier.csprojResolveAssemblyReference.cache
+c:\users\botalka\documents\visual studio 2015\Projects\Handwritten letters classifier\Handwritten letters classifier\obj\Debug\Handwritten_letters_classifier.Form1.resources
+c:\users\botalka\documents\visual studio 2015\Projects\Handwritten letters classifier\Handwritten letters classifier\obj\Debug\Handwritten_letters_classifier.Properties.Resources.resources
+c:\users\botalka\documents\visual studio 2015\Projects\Handwritten letters classifier\Handwritten letters classifier\obj\Debug\Handwritten letters classifier.csproj.GenerateResource.Cache
+c:\users\botalka\documents\visual studio 2015\Projects\Handwritten letters classifier\Handwritten letters classifier\obj\Debug\Handwritten letters classifier.exe
+c:\users\botalka\documents\visual studio 2015\Projects\Handwritten letters classifier\Handwritten letters classifier\obj\Debug\Handwritten letters classifier.pdb
+C:\Курсовая\Handwritten letters classifier\bin\Debug\Handwritten letters classifier.exe.config
+C:\Курсовая\Handwritten letters classifier\obj\Debug\Handwritten letters classifier.exe
+C:\Курсовая\Handwritten letters classifier\obj\Debug\Handwritten letters classifier.pdb
+C:\Курсовая\Handwritten letters classifier\bin\Debug\Handwritten letters classifier.exe
+C:\Курсовая\Handwritten letters classifier\bin\Debug\Handwritten letters classifier.pdb
+C:\Курсовая\Handwritten letters classifier\obj\Debug\Handwritten letters classifier.csprojResolveAssemblyReference.cache
+C:\Курсовая\Handwritten letters classifier\obj\Debug\Handwritten_letters_classifier.Form1.resources
+C:\Курсовая\Handwritten letters classifier\obj\Debug\Handwritten_letters_classifier.Properties.Resources.resources
+C:\Курсовая\Handwritten letters classifier\obj\Debug\Handwritten letters classifier.csproj.GenerateResource.Cache
