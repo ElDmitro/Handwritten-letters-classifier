@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/eldmitro/Course/logs/complete_training.ckpt"
+all_model_checkpoint_paths: "/home/eldmitro/Course/chkp/0_ckpt.ckpt"
+all_model_checkpoint_paths: "/home/eldmitro/Course/chkp/1000_ckpt.ckpt"
+all_model_checkpoint_paths: "/home/eldmitro/Course/logs/complete_training.ckpt"
